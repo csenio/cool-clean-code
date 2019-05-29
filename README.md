@@ -5,3 +5,4 @@ principles I learn to keep my code clean and fresh
  - every function should do one thing *only*
  - no premature optimization
  - no obsessive dry code
+ - plan what you will do
