@@ -6,3 +6,5 @@ principles I learn to keep my code clean and fresh
  - no premature optimization
  - no obsessive dry code
  - plan what you will do
+ - keep stuff simple 
+ - variable names should be pronoucable
