@@ -8,3 +8,4 @@ principles I learn to keep my code clean and fresh
  - plan what you will do
  - keep stuff simple 
  - variable names should be pronoucable
+ - no nested if statements!
